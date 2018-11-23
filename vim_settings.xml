@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1542989510185">
+      <file name="/Dummy.txt" timestamp="1542991557543">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1542999813882">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
