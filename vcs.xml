@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/root438/intellij-plugins.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/okj8-b/database.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/b/b/github.com/ookk3388" />
+    <option name="cloneParentDir" value="/Volumes/b/b/gitlab.com/ookk3388" />
   </component>
 </application>
