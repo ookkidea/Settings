@@ -1,0 +1,5 @@
+<application>
+  <component name="HybrisAddonStorefrontSwitcherApplicationSettings">
+    <option name="storefront" value="java的终端" />
+  </component>
+</application>
