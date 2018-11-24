@@ -3,24 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543078469021">
+      <file name="/Dummy.txt" timestamp="1543092833241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris Solr Console" timestamp="1543078340427">
+      <file name="/Hybris Solr Console" timestamp="1543092889556">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties" timestamp="1543080886707" />
-      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/examples/build.gradle" timestamp="1543080963335" />
-      <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/project/plugins.sbt" timestamp="1543002405716">
-        <mark key="[" line="3" column="58" />
       </file>
       <file name="/sbtShell" timestamp="1543052034001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris FS Console" timestamp="1543078340329">
+      <file name="/Hybris FS Console" timestamp="1543092889393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris Monitor Console" timestamp="1543078340262">
+      <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/project/plugins.sbt" timestamp="1543002405716">
+        <mark key="[" line="3" column="58" />
+      </file>
+      <file name="/Hybris Monitor Console" timestamp="1543092889302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/b/b/gitlab.com/ookk3388/database/get.sh" timestamp="1543054409181">
@@ -29,10 +27,10 @@
       <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/build.gradle" timestamp="1543053239737">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/Hybris Impex Console" timestamp="1543078340207">
+      <file name="/Hybris Impex Console" timestamp="1543092889236">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris Groovy Console" timestamp="1543078340247">
+      <file name="/Hybris Groovy Console" timestamp="1543092889282">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
