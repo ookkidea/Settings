@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543097346486">
+      <file name="/Dummy.txt" timestamp="1543100769037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Hybris Solr Console" timestamp="1543092889556">
@@ -12,7 +12,9 @@
       <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/project/plugins.sbt" timestamp="1543002405716">
         <mark key="[" line="3" column="58" />
       </file>
-      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/gradle.properties" timestamp="1543094401967" />
+      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/gradle.properties" timestamp="1543100510675">
+        <mark key="[" line="2" column="13" />
+      </file>
       <file name="/sbtShell" timestamp="1543052034001">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,6 +27,11 @@
       <file name="/Volumes/b/b/gitlab.com/ookk3388/database/get.sh" timestamp="1543054409181">
         <mark key="[" line="38" column="17" />
       </file>
+      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/build.gradle" timestamp="1543100588861">
+        <mark key="[" line="142" column="33" />
+        <mark key="]" line="142" column="33" />
+        <mark key="." line="142" column="33" />
+      </file>
       <file name="/Hybris Impex Console" timestamp="1543092889236">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +40,14 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>o</text>
+      </register>
+      <register name="-" type="4">
+        <text>o</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
