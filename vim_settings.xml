@@ -4,17 +4,22 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/README.md" timestamp="1543002400105" />
-      <file name="/Dummy.txt" timestamp="1543018582317">
+      <file name="/Dummy.txt" timestamp="1543052893000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1543052034001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/examples/settings.gradle" timestamp="1543052586283" />
       <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/project/plugins.sbt" timestamp="1543002405716">
         <mark key="[" line="3" column="58" />
       </file>
       <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/gradle.properties" timestamp="1543052183663" />
       <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/src/main/resources/长毛是狗总公司 data.json" timestamp="1543052274716" />
+      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/src/main/resources/META-INF/gradle-plugins/org.jetbrains.intellij.properties" timestamp="1543052389714" />
+      <file name="/Volumes/b/b/github.com/ookk3388/gradle-intellij-plugin创建工件的工具/build.gradle" timestamp="1543053239737">
+        <mark key="[" line="10" column="24" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
