@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/b/b/idea/idea-plugin-create/3838438/src/main/resources/META-INF/plugin.xml" timestamp="1543121745845" />
       <file name="/Dummy.txt" timestamp="1543129169292">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,6 +18,9 @@
       <file name="/Volumes/b/b/github.com/ookkidea/dev-b/get.sh" timestamp="1543129255812">
         <mark key="[" line="0" column="18" />
       </file>
+      <file name="/Volumes/b/b/github.com/ookkidea/setup-idea/子模块/jediterm/jediterm.sh" timestamp="1543137689352">
+        <mark key="[" line="1" column="22" />
+      </file>
       <file name="/sbtShell" timestamp="1543123439323">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,7 +30,6 @@
       <file name="/Volumes/b/b/github.com/ookkidea/setup-idea/子模块/intellij-scala-bundle/build.sbt" timestamp="1543126624910">
         <mark key="[" line="10" column="23" />
       </file>
-      <file name="/Volumes/b/b/idea/idea-plugin-create/3838438/build.gradle" timestamp="1543121280473" />
       <file name="/Hybris Monitor Console" timestamp="1543092889302">
         <mark key="[" line="0" column="0" />
       </file>
