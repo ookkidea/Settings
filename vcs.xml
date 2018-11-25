@@ -38,8 +38,16 @@
           <option name="url" value="https://github.com/ookkidea/dev-b.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ookk3388/nanobox-hooks-influxdb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ookkco/nanobox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/b/b/github.com/ookkidea" />
+    <option name="cloneParentDir" value="/Volumes/runtime/group/nanobox" />
   </component>
 </application>
