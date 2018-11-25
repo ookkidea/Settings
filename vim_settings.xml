@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543129169292">
+      <file name="/Dummy.txt" timestamp="1543150033262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris Solr Console" timestamp="1543092889556">
+      <file name="/Hybris Solr Console" timestamp="1543150017597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/b/b/github.com/ookk3388/sbt-idea-plugin/project/plugins.sbt" timestamp="1543002405716">
@@ -24,13 +24,16 @@
       <file name="/sbtShell" timestamp="1543123439323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris FS Console" timestamp="1543092889393">
+      <file name="/Hybris FS Console" timestamp="1543150017490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/b/b/github.com/ookkidea/setup-idea/子模块/intellij-scala-bundle/build.sbt" timestamp="1543126624910">
         <mark key="[" line="10" column="23" />
       </file>
-      <file name="/Hybris Monitor Console" timestamp="1543092889302">
+      <file name="/Bash" timestamp="1543150152985">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Hybris Monitor Console" timestamp="1543150017420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/b/b/gitlab.com/ookk3388/database/get.sh" timestamp="1543054409181">
@@ -44,10 +47,10 @@
         <mark key="]" line="142" column="33" />
         <mark key="." line="142" column="33" />
       </file>
-      <file name="/Hybris Impex Console" timestamp="1543092889236">
+      <file name="/Hybris Impex Console" timestamp="1543150017372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Hybris Groovy Console" timestamp="1543092889282">
+      <file name="/Hybris Groovy Console" timestamp="1543150017408">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
