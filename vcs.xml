@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/ookk3388/IntelliJ-IDEA-Localization-zh_CN-.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ookk3388/gitignore.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/b/b/github.com/ookk3388" />
